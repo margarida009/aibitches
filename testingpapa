@@ -1,1 +1,8 @@
-lalalalalala
+
+git add your_notebook.py
+git commit -m "First release of Hello World!"
+git push origin main
+
+git add testingpapa
+git commit -m "First release of Hello World!"
+git push origin main
